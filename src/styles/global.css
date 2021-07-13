@@ -1,0 +1,166 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-h {
+    height: 85vh;
+}
+
+.button-ml{
+    margin-left: 4%;
+}
+
+.image {
+margin-left: 2rem;
+padding: 0;
+display: inline-block;
+overflow: hidden;
+position: relative;
+}
+
+@media screen and (max-width: 768px) {
+    .image {
+        margin-left: 0;
+    }
+    .video-iframe iframe {
+        width: 100%;
+    }
+    .video-post iframe {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .sm-px-bt {
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+}
+
+sm-px-bt
+
+.image > .gatsby-image-wrapper {
+width: 100%;
+max-width: 100%;
+vertical-align: top;
+}
+
+.image:after {
+content: "";
+background-color: rgba(255, 255, 255, 0.75);
+opacity: 0;
+transition: opacity 0.25s ease-in-out;
+}
+
+.image:after,
+.image__caption {
+position: absolute;
+width: 100%;
+height: 50%;
+bottom: 0;
+left: 0;
+}
+
+.image:after {
+opacity: 1;
+}
+
+.image__caption {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color: black;
+overflow: hidden;
+z-index: 2;
+opacity: 0;
+}
+
+.caption__title {
+display: block;
+font-size: .75rem;
+text-transform: uppercase;
+letter-spacing: 0.2rem;
+}
+
+.image__caption--fade {
+transition: opacity 0.25s ease-in-out;
+}
+
+.image .image__caption--fade {
+opacity: 1;
+}
+
+.image .image__caption--slide-up {
+opacity: 1;
+}
+
+.image__caption--slide-right {
+left: -40%;
+transition: opacity, left, 0.3s ease-in-out;
+}
+
+.image .image__caption--slide-right {
+left: 0;
+opacity: 1;
+}
+
+.image__caption--spin {
+transition: opacity, transform, 0.3s ease-in-out;
+}
+
+.image .image__caption--spin {
+transform: rotate(360deg);
+opacity: 1;
+}
+
+.image__caption--grow {
+transform: scale(0);
+transition: opacity, transform, 0.25s cubic-bezier(0.25, 0.1, 0, 2.2);
+}
+
+.image .image__caption--grow {
+transform: scale(1);
+opacity: 1;
+}
+
+.img-container {
+    display: table;
+    height: 250px;
+    max-height: 250px;
+    overflow: hidden;
+}
+
+.img-container-img {
+display: table-cell;
+vertical-align: middle;
+}
+
+.img-container-lg {
+    display: table;
+    height: 100%;
+    max-height: 100%;
+    overflow: hidden;
+}
+
+.h-container-lg{
+    height: 30rem;
+}
+
+.vertical-text {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    padding: .5rem;
+}
+
+.header-index {
+    z-index: 1;
+}
+
+.cont-cont {
+    contain: content;
+}
+
+.hero_img {
+    max-height: 400px;
+}

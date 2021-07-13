@@ -1,48 +1,53 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
 import { Helmet } from 'react-helmet'
-import { graphql, Link } from 'gatsby'
+import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import PreviewCompatibleImage from '../components//PreviewCompatibleImage'
 
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  description,
-  tags,
+  video,
+  category,
   title,
   helmet,
+  featuredimage,
+  date,
+  header
 }) => {
   const PostContent = contentComponent || Content
 
   return (
-    <section className="section">
+    <div>
       {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map((tag) => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
-          </div>
+      <div className="container px-5 mx-auto py-4 lg:px-32">
+        <div className="relative h-40 lg:h-64">
+          <PreviewCompatibleImage
+          imageInfo={{
+              image: featuredimage,
+              alt: `featured image thumbnail for post $title}`,
+          }}
+          />
         </div>
+        <section className="mt-10 max-w-xl mx-auto cont-cont" >
+            <h1 className="font-bold text-4xl mb-4">{title}</h1>
+            <p className="break-words">{header}</p>
+            <div className="mt-5 flex justify-between">
+                <p className="font-bold">{category}</p>
+                <p className="text-whitegray">{date}</p>
+            </div>
+            <hr className="my-8 border-gray-400"/>
+            <div className="max-w-full prose">
+            <PostContent content={content} />
+            </div>
+            <div className="flex justify-center video-post">
+              <PostContent content={video} />
+            </div>
+        </section>
       </div>
-    </section>
+    </div>
   )
 }
 
@@ -70,10 +75,15 @@ const BlogPost = ({ data }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
+            <script data-ad-client="ca-pub-1035048148988410" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
           </Helmet>
         }
-        tags={post.frontmatter.tags}
+        category={post.frontmatter.category}
         title={post.frontmatter.title}
+        featuredimage={post.frontmatter.featuredimage}
+        date={post.frontmatter.date}
+        video={post.frontmatter.video}
+        header={post.frontmatter.header}
       />
     </Layout>
   )
@@ -93,10 +103,18 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(locale: "es", formatString: "DD MMMM YYYY")
         title
-        description
-        tags
+        header
+        category
+        video
+        featuredimage {
+          childImageSharp {
+            fluid(quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
