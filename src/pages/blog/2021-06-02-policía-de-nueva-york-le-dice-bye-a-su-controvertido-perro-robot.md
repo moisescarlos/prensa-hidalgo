@@ -4,7 +4,7 @@ title: Lorem Ipsum Noticia 14
 date: 2021-06-02T05:06:41.266Z
 header: Nulla est eget pulvinar dapibus est eget placerat.
 featuredpost: false
-featuredimage: /img/spot-perro-robot-policia.jpeg
+featuredimage: /img/products-full-width.jpg
 isVideo: true
 tags:
   - Policia
