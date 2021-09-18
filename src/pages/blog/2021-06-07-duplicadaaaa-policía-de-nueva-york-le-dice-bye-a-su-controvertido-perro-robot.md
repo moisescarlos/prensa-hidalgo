@@ -4,7 +4,7 @@ title: Lorem Ipsum Noticia 13
 date: 2021-06-07T06:27:14.279Z
 header: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/products-full-width.jpg
 isVideo: true
 tags:
   - Policia
