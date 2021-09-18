@@ -4,7 +4,7 @@ title: Lorem Ipsum Noticia 12
 date: 2021-06-07T06:28:06.172Z
 header: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
 featuredpost: false
-featuredimage: /img/home-jumbotron.jpg
+featuredimage: /img/products-full-width.jpg
 isVideo: true
 tags:
   - IEEH
