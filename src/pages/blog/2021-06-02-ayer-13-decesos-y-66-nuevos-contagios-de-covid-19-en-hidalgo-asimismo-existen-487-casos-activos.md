@@ -1,17 +1,21 @@
 ---
 templateKey: blog-post
-title: Ayer, 13 decesos y 66 nuevos contagios de Covid-19 en Hidalgo Asimismo,
-  existen 487 casos activos.
+title: Lorem Ipsum Noticia 18
 date: 2021-06-02T05:00:25.504Z
-category:
-  - Hidalgo
-header: Ayer, 13 decesos y 66 nuevos contagios de Covid-19 en Hidalgo Asimismo,
-  existen 487 casos activos.
+header: "Nullam condimentum nisl quis nulla volutpat, in maximus orci
+  consectetur. Aliquam ultricies est vel augue sagittis cursus. "
 featuredpost: false
-featuredimage: /img/noticia-2.jpeg
+featuredimage: /img/products-full-width.jpg
 isVideo: false
 tags:
   - COVID
+category:
+  - Hidalgo
 ---
-Luego de que por varios días Hidalgo registró defunciones con una sola cifra, este martes la entidad tuvo 13 fallecimientos a causa de Covid-19, por lo que el total acumulado llegó a 5 mil 955. De las últimas muertes acontecidas, dos sucedieron en Tepeji, Tizayuca y Tula, respectivamente, mientras que en Francisco I. Madero, Ixmiquilpan, Santiago de Anaya, Tenango de Doria, Tepeapulco y Tulancingo, una en cada localidad, además, una foránea. Respecto a nuevos contagios de Covid-19, ayer se sumaron 66 positivos, por lo que desde la llegada de la pandemia a Hidalgo se acumulan 37 mil 772 individuos con la enfermedad. Asimismo, existen 487 casos activos, de los cuales 478 fueron registrados en los últimos 14 días y nueve, entre 15 y 21 días. Cinco localidades concentran 41.2 por ciento de estos: Pachuca, con 85; Tizayuca, con 38; Tepeji, con 29; Tulancingo, 25, y Apan, 20.
-Este martes 20 de abril, la Secretaría de Salud reportó 582 muertes más por Covid-19 en el México, con lo que suman 213 mil 48. Además, informó que hay 2 millones 311 mil 172 casos confirmados, 4 mil 262 más que ayer. En conferencia de prensa, José Luis Alomía Zegarra, director de epidemiología de la Secretaría de Salud, indicó que hay 2 millones 500 mil 504 casos estimados en el país, de los cuales el 1% representan a la epidemia activa, es decir, 26 mil 000 personas. En cuanto a los casos confirmados, de acuerdo con la dependencia, el país sumó 4,262 nuevos contagios en el último día por lo que el acumulado es de 2,311,172. Durante el informe técnico diario desde Palacio Nacional, el funcionario señaló que 1,836,377 personas se han recuperado del coronavirus.
+Vestibulum accumsan diam malesuada diam vestibulum, a vulputate sapien vestibulum. Mauris volutpat interdum est ac cursus. Vestibulum luctus felis nec velit porttitor, in vehicula odio mattis. Etiam dictum interdum justo, ut accumsan purus bibendum ut. Vivamus tincidunt ligula tortor, sit amet scelerisque nulla egestas id. 
+
+Vivamus tempus augue vitae sollicitudin vestibulum. Praesent pretium facilisis erat. Nullam condimentum nisl quis nulla volutpat, in maximus orci consectetur. Aliquam ultricies est vel augue sagittis cursus. Maecenas convallis non purus sit amet pretium. Donec lobortis in turpis quis tincidunt. Donec tempus orci sit amet cursus ullamcorper. Aenean ultricies sollicitudin velit nec malesuada.
+
+Aenean semper velit diam, vel pharetra quam sollicitudin vitae. Aliquam eu finibus nisi. Donec iaculis nibh sit amet gravida venenatis. Donec in luctus dui. Nulla facilisi. Ut lobortis nibh sapien, nec pellentesque ligula varius ac. In vitae nulla at urna malesuada vehicula eu vitae dui. Ut sapien arcu, bibendum at vestibulum vitae, vulputate at libero. Nulla sollicitudin vitae felis ac sodales. Nam dignissim, diam sit amet eleifend pharetra, justo dolor scelerisque leo, non vulputate eros diam a libero. Sed vestibulum imperdiet mi eu hendrerit. Maecenas ultricies enim in magna malesuada suscipit. Aliquam rutrum interdum lacinia. Donec eu condimentum leo.
+
+Mauris in libero scelerisque, suscipit tortor mollis, hendrerit augue. In hac habitasse platea dictumst. Pellentesque tempus dolor ex, ac pellentesque erat fermentum vitae. Nulla pulvinar dapibus est eget placerat. Donec urna ante, dapibus quis dolor non, ultrices pretium velit. Ut aliquam velit dolor, at ornare nibh vehicula quis. In at sem quis lorem tempor rutrum. Vivamus eget diam orci. Sed varius blandit molestie. Donec dignissim pretium ornare.
