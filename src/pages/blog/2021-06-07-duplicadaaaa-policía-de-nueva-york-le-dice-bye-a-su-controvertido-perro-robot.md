@@ -1,29 +1,24 @@
 ---
 templateKey: blog-post
-title: La Mañanera de AMLO. Los temas del 4 de junio
+title: Lorem Ipsum Noticia 13
 date: 2021-06-07T06:27:14.279Z
-category:
-  - Nacional
-header: La Mañanera de AMLO. Los temas del 4 de junio. La decisión estaba
-  relacionada con que el dispositivo puede convertirse en un "objetivo" para sus
-  críticos.
+header: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
 isVideo: true
+tags:
+  - Policia
+category:
+  - Nacional
 video: <iframe width="560" height="315"
   src="https://www.youtube.com/embed/J-xNRRoM9mU" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-tags:
-  - Policia
 ---
-La policía de Nueva York rescindió el contrato con la empresa Boston Dynamics, que fabrica los perros robots, un controvertido dispositivo cuyo empleo preocupó a parte de la población, confirmó este jueves la fuerza a la AFP.
-El jefe de inteligencia y contraterrorismo de la policía de Nueva York, John Miller, dijo a The New York Times que el perro sería devuelto a Boston Dynamics y que la decisión estaba relacionada con que el dispositivo puede convertirse en un "objetivo" para sus críticos.
-Estos robots, cuyo modelo estándar Boston Dynamics bautizó como Spot, son capaces de navegar por terrenos accidentados, evitar obstáculos, filmar y recopilar información sobre su entorno.
-También pueden equiparse con un brazo móvil, aunque ese no era el caso del ejemplar de la policía de Nueva York.
-En febrero, durante una intervención policial, el perro mecánico fue enviado a explorar un edificio de viviendas públicas en el barrios del Bronx después de recibir una llamada que indicaba que un ladrón se había atrincherado en un apartamento.
-Aunque nada fue hallado en el lugar, las imágenes causaron revuelo y preocupación de que el robot pudiera presentarse como una potencial herramienta de vigilancia.
-El cuadrúpedo, que Boston Dynamics ofrece por 74 mil 500 dólares, fue visto nuevamente a mediados de abril en Manhattan durante una toma de rehenes en la cual no fue utilizado.
-Videos del perro mecánico paseando por la acera han vuelto a encender las redes sociales.
-Algunos lo percibieron como una ilustración de los métodos considerados agresivos de la policía de Nueva York, especialmente en relación con las minorías.
-John Miller dijo al The New York Times que estas críticas eran injustificadas, pero "la gente encontró la manera de convertir (al robot) en un objeto maligno".
+Donec aliquet diam sit amet maximus ullamcorper. Vestibulum accumsan diam malesuada diam vestibulum, a vulputate sapien vestibulum. Mauris volutpat interdum est ac cursus. Vestibulum luctus felis nec velit porttitor, in vehicula odio mattis. Etiam dictum interdum justo, ut accumsan purus bibendum ut. Vivamus tincidunt ligula tortor, sit amet scelerisque nulla egestas id. 
+
+Vivamus tempus augue vitae sollicitudin vestibulum. Praesent pretium facilisis erat. Nullam condimentum nisl quis nulla volutpat, in maximus orci consectetur. Aliquam ultricies est vel augue sagittis cursus. Maecenas convallis non purus sit amet pretium. Donec lobortis in turpis quis tincidunt. Donec tempus orci sit amet cursus ullamcorper. Aenean ultricies sollicitudin velit nec malesuada.
+
+Aenean semper velit diam, vel pharetra quam sollicitudin vitae. Aliquam eu finibus nisi. Donec iaculis nibh sit amet gravida venenatis. Donec in luctus dui. Nulla facilisi. Ut lobortis nibh sapien, nec pellentesque ligula varius ac. In vitae nulla at urna malesuada vehicula eu vitae dui. Ut sapien arcu, bibendum at vestibulum vitae, vulputate at libero. Nulla sollicitudin vitae felis ac sodales. Nam dignissim, diam sit amet eleifend pharetra, justo dolor scelerisque leo, non vulputate eros diam a libero. Sed vestibulum imperdiet mi eu hendrerit. Maecenas ultricies enim in magna malesuada suscipit. Aliquam rutrum interdum lacinia. Donec eu condimentum leo.
+
+Mauris in libero scelerisque, suscipit tortor mollis, hendrerit augue. In hac habitasse platea dictumst. Pellentesque tempus dolor ex, ac pellentesque erat fermentum vitae. Nulla pulvinar dapibus est eget placerat. Donec urna ante, dapibus quis dolor non, ultrices pretium velit. Ut aliquam velit dolor, at ornare nibh vehicula quis. In at sem quis lorem tempor rutrum. Vivamus eget diam orci. Sed varius blandit molestie. Donec dignissim pretium ornare. Sed aliquam velit in erat efficitur, ut euismod velit fringilla.
