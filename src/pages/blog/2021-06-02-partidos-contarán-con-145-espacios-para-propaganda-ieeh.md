@@ -4,7 +4,7 @@ title: Lorem Ipsum Noticia 16
 date: 2021-06-02T05:04:34.962Z
 header: Nam quis turpis condimentum, maximus dui sit amet, suscipit mauris.
 featuredpost: false
-featuredimage: /img/noticia4.jpeg
+featuredimage: /img/products-full-width.jpg
 isVideo: true
 tags:
   - IEEH
