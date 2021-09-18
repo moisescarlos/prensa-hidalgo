@@ -4,7 +4,7 @@ title: Lorem Ipsum Noticia 17
 date: 2021-06-02T05:01:39.612Z
 header: Donec aliquet diam sit amet maximus ullamcorper.
 featuredpost: false
-featuredimage: /img/noticia-3.jpeg
+featuredimage: /img/products-full-width.jpg
 isVideo: true
 tags:
   - Profeco
