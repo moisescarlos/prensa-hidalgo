@@ -1,24 +1,25 @@
 ---
 templateKey: blog-post
-title: El Secretario de Elecciones del Partido Acción Nacional se reunió con la
-  estructura del albiazul en San Luis Potosí
+title: Lorem Ipsum Noticia 15
 date: 2021-06-02T05:05:30.468Z
-category:
-  - Nacional
-header: El Secretario de Elecciones del Partido Acción Nacional, Armando Tejeda
-  Cid, se reunió con la estructura del albiazul en San Luis Potosí, con el
-  objetivo de reforzar los trabajos
+header: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
+  consectetur, adipisci velit..."
 featuredpost: false
 featuredimage: /img/pan.jpeg
 isVideo: true
+tags:
+  - PAN
+category:
+  - Nacional
 video: <iframe width="560" height="315"
   src="https://www.youtube.com/embed/pWJYOj0XvZc" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-tags:
-  - PAN
 ---
-El Secretario de Elecciones del Partido Acción Nacional, Armando Tejeda Cid, se reunió con la estructura del albiazul en San Luis Potosí, con el objetivo de reforzar los trabajos con miras a la jornada electoral del próximo 6 de junio.
-Trascendió que su visita responde a que San Luis Potosí es una entidad en la que se encuentran punteros en la carrera por la gubernatura, de la mano de Octavio Pedroza Gaitán.
-Durante su estancia en territorio potosino sostuvo encuentros con diversos líderes panistas y de la campaña a la gubernatura, a fin de establecer acciones concretas que consoliden el triunfo en las urnas.
-Fuentes cercanas al Comité Directivo Estatal del PAN señalaron que Tejeda Cid está realizando un seguimiento puntual de los equipos de campaña en todos los estados, a fin de garantizar una elección que devuelva al PAN una amplia representación en el mapa electoral nacional.
+Vivamus tincidunt ligula tortor, sit amet scelerisque nulla egestas id. Vivamus tempus augue vitae sollicitudin vestibulum. Praesent pretium facilisis erat. Nullam condimentum nisl quis nulla volutpat, in maximus orci consectetur. Aliquam ultricies est vel augue sagittis cursus. Maecenas convallis non purus sit amet pretium. Donec lobortis in turpis quis tincidunt. Donec tempus orci sit amet cursus ullamcorper. Aenean ultricies sollicitudin velit nec malesuada.
+
+Aenean semper velit diam, vel pharetra quam sollicitudin vitae. Aliquam eu finibus nisi. Donec iaculis nibh sit amet gravida venenatis. Donec in luctus dui. Nulla facilisi. Ut lobortis nibh sapien, nec pellentesque ligula varius ac. In vitae nulla at urna malesuada vehicula eu vitae dui. Ut sapien arcu, bibendum at vestibulum vitae, vulputate at libero. 
+
+Nulla sollicitudin vitae felis ac sodales. Nam dignissim, diam sit amet eleifend pharetra, justo dolor scelerisque leo, non vulputate eros diam a libero. Sed vestibulum imperdiet mi eu hendrerit. Maecenas ultricies enim in magna malesuada suscipit. Aliquam rutrum interdum lacinia. Donec eu condimentum leo.
+
+Mauris in libero scelerisque, suscipit tortor mollis, hendrerit augue. In hac habitasse platea dictumst. Pellentesque tempus dolor ex, ac pellentesque erat fermentum vitae. Nulla pulvinar dapibus est eget placerat. Donec urna ante, dapibus quis dolor non, ultrices pretium velit. Ut aliquam velit dolor, at ornare nibh vehicula quis. In at sem quis lorem tempor rutrum. Vivamus eget diam orci. Sed varius blandit molestie. Donec dignissim pretium ornare. Sed aliquam velit in erat efficitur, ut euismod velit fringilla.
