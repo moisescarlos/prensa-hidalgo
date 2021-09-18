@@ -5,7 +5,7 @@ date: 2021-06-02T05:05:30.468Z
 header: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
   consectetur, adipisci velit..."
 featuredpost: false
-featuredimage: /img/pan.jpeg
+featuredimage: /img/products-full-width.jpg
 isVideo: true
 tags:
   - PAN
